@@ -7,6 +7,7 @@ public class PrimeiroPrograma {
         Gato gato = new Gato();
 
         System.out.println(gato);
+        System.out.println(gato);
 // deletar linha crtl+y
         /*int a = 5;
         int b = 3;
