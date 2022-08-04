@@ -18,7 +18,7 @@ class Livro {
     private String titulo;
     private Integer numPage;
 
-    //contrutor
+    //contrutor livro
 
     public Livro(String titulo, Integer numPage) {
         this.titulo = titulo;
